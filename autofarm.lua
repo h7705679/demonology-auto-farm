@@ -54,6 +54,6 @@ end
 local queue_on_teleport = syn and syn.queue_on_teleport or queue_on_teleport
 
 queue_on_teleport([[ 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/h7705679/demonology-auto-farm/refs/heads/main/autofarm.lua"))()
 ]])
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/h7705679/demonology-auto-farm/refs/heads/main/autofarm.lua"))()
